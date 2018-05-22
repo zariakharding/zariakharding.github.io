@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Sigmar+One');
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+
+
+.lardlad{
+
+
+position: absolute;
+width: 1067px;
+height: 158px;
+left: 176px;
+top: 22px;
+
+font-family: Sigmar One;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 96px;
+color: #B60000;
+
+}
+
+.donuts{
+position: absolute;
+width: 1067px;
+height: 158px;
+left: 700px;
+top: 22px;
+
+font-family: Sigmar One;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 96px;
+
+color: #000000;
+border: 3px solid #000000;
+}
