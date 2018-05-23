@@ -33,7 +33,69 @@ font-style: normal;
 font-weight: normal;
 line-height: normal;
 font-size: 96px;
+color: #214CFE;
+
+}
+
+.links1{
+    position: absolute;
+width: 304px;
+height: 116px;
+left: 24px;
+top: 192px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 48px;
 
 color: #000000;
-border: 3px solid #000000;
+}
+
+.links2{
+    position: absolute;
+width: 135px;
+height: 57px;
+left: 328px;
+top: 192px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 48px;
+
+color: #000000;
+}
+
+.links3{
+    position: absolute;
+width: 132px;
+height: 57px;
+left: 947px;
+top: 192px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 48px;
+
+color: #000000;
+}
+.links4{
+position: absolute;
+width: 215px;
+height: 57px;
+left: 1129px;
+top: 192px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 48px;
+
+color: #000000;
 }
