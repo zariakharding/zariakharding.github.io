@@ -36,7 +36,21 @@ font-size: 96px;
 color: #214CFE;
 
 }
+.links{
+    position: absolute;
+width: 278px;
+height: 89px;
+left: 1309px;
+top: 13px;
 
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 36px;
+
+color: #ED5AA0;
+}
 .links1{
     position: absolute;
 width: 304px;
