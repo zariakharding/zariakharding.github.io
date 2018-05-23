@@ -1,8 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Sigmar+One');
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 
-
-
 .lardlad{
 
 
@@ -112,4 +110,43 @@ line-height: normal;
 font-size: 48px;
 
 color: #000000;
+}
+
+.lardladimg{   
+position: absolute;
+left: 486px;
+top: 160px;
+}
+
+.donut1{   
+position: absolute;
+left: 720px;
+top: -250px;
+}
+.donut2{
+position: absolute;
+left: -181px;
+top: -363px;
+}
+
+.donut3{
+position: absolute;
+left: -50px;
+top: 6px;
+}
+
+.donut4{
+position: absolute;
+width: 640px;
+height: 1136px;
+left: 1091px;
+top: -522px; 
+}
+
+.donut5{
+    
+position: absolute;
+left: -280px;
+top: 241px;
+
 }
