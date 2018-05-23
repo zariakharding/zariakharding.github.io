@@ -2,8 +2,6 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 
 .lardlad{
-
-
 position: absolute;
 width: 1067px;
 height: 158px;
@@ -16,7 +14,6 @@ font-weight: normal;
 line-height: normal;
 font-size: 96px;
 color: #B60000;
-
 }
 
 .donuts{
@@ -155,4 +152,33 @@ top: -363px;
 position: absolute;
 left: 1091px;
 top: -522px;
+}
+
+.lard{
+position: absolute;
+left: 0px;
+top: 258px;
+
+}
+
+.text{
+    position: absolute;
+width: 595px;
+height: 584px;
+left: 803px;
+top: 252px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 36px;
+
+color: #ED5AA0;
+}
+
+.homer1{
+position: absolute;
+left: 84px;
+top: 70px;
 }
