@@ -182,3 +182,131 @@ position: absolute;
 left: 84px;
 top: 70px;
 }
+.donut10{
+    position: absolute;
+left: 1091px;
+top: -203px;
+}
+
+.donut11{
+position: absolute;
+left: 250px;
+top: 34px;
+}
+
+.donut12{
+    position: absolute;
+
+left: 390px;
+top: 224px;
+}
+
+.donut13{
+    position: absolute;
+
+left: 549px;
+top: 135px;
+}
+
+.donut14{
+position: absolute;
+
+left: 405px;
+top: -100px;
+}
+
+.donut15{
+position: absolute;
+left: 853px;
+top: 101px;
+}
+
+.donut16{
+    
+position: absolute;
+
+left: 831px;
+top: 101px;
+}
+
+.donuttext{
+position: absolute;
+left: 24px;
+top: 305px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 24px;
+
+color: #000000;
+}
+
+.sleep{
+position: absolute;
+left: 100px;
+top: 249px;
+}
+
+.sleeptext{
+position: absolute;
+width: 928px;
+height: 235px;
+left: 498px;
+top: 577px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 40px;
+
+color: #000000;
+}
+
+.contact{
+    
+position: absolute;
+width: 1656px;
+height: 173px;
+left: 44px;
+top: 557px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 120px;
+
+color: #ED5AA0;
+}
+
+.do1{
+position: absolute;
+left: 645px;
+top: 96px;
+}
+
+.do2{
+position: absolute;
+left: -282px;
+top: 176px;
+}
+
+.ttext{
+position: absolute;
+width: 1277px;
+height: 376px;
+left: 84px;
+top: 250px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 200;
+line-height: normal;
+font-size: 52px;
+text-align: center;
+
+color: #000000;
+}
