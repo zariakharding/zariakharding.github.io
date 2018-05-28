@@ -1,197 +1,110 @@
 @import url('https://fonts.googleapis.com/css?family=Sigmar+One');
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 
-.lardlad{
-position: absolute;
-width: 1067px;
-height: 158px;
-left: 176px;
-top: 22px;
+* {outline: 1px solid lime}
 
-font-family: Sigmar One;
-font-style: normal;
-font-weight: normal;
-line-height: normal;
-font-size: 96px;
-color: #B60000;
+body {
+    font-family: Roboto;
+}
+.background{  
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size:contain;
+}
+.logoarea {
+    text-align: center;
 }
 
-.donuts{
-position: absolute;
-width: 1067px;
-height: 158px;
-left: 700px;
-top: 22px;
-
-font-family: Sigmar One;
-font-style: normal;
-font-weight: normal;
-line-height: normal;
-font-size: 96px;
-color: #214CFE;
-
+.lardlad {
+    font-family: Sigmar One;
+    font-size: 96px;
+    color: #B60000;
 }
-.links{
+
+.donuts {
+    font-family: Sigmar One;
+    font-size: 96px;
+    color: #214CFE;
+}
+
+.home {
     position: absolute;
-width: 278px;
-height: 89px;
-left: 1309px;
-top: 13px;
-
-font-family: Roboto;
-font-style: normal;
-font-weight: normal;
-line-height: normal;
-font-size: 36px;
-
-color: #ED5AA0;
-}
-.links1{
-    position: absolute;
-width: 304px;
-height: 116px;
-left: 24px;
-top: 192px;
-
-font-family: Roboto;
-font-style: normal;
-font-weight: normal;
-line-height: normal;
-font-size: 48px;
-
-color: #000000;
+    top: 20px;
+    right: 20px;
+    text-decoration: none;
+    font-family: Roboto;
+    font-size: 48px;
+    color: #000000;
 }
 
-.links2{
-    position: absolute;
-width: 135px;
-height: 57px;
-left: 328px;
-top: 192px;
-
-font-family: Roboto;
-font-style: normal;
-font-weight: normal;
-line-height: normal;
-font-size: 48px;
-
-color: #000000;
-}
-
-.links3{
-    position: absolute;
-width: 132px;
-height: 57px;
-left: 947px;
-top: 192px;
-
-font-family: Roboto;
-font-style: normal;
-font-weight: normal;
-line-height: normal;
-font-size: 48px;
-
-color: #000000;
-}
-.links4{
-position: absolute;
-width: 215px;
-height: 57px;
-left: 1129px;
-top: 192px;
-
-font-family: Roboto;
-font-style: normal;
-font-weight: normal;
-line-height: normal;
-font-size: 48px;
-
-color: #000000;
-}
-
-.lardladimg{   
-position: absolute;
-left: 486px;
-top: 160px;
-}
-
-.donut1{   
-position: absolute;
-left: 720px;
-top: -250px;
-}
-.donut2{
-position: absolute;
-left: -181px;
-top: -363px;
-}
-
-.donut3{
-position: absolute;
-left: -50px;
-top: 6px;
+.links {
+    text-align: center;
+    background-image: url(lard_lad_donuts_by_pointingmonkey-d7x819o.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    height: 600px;
+    font-size: 48px;
+    color: deeppink;
 }
 
 
 
-.donut5{
-    
-position: absolute;
-left: -280px;
-top: 241px;
+.links a {
+    display: inline-block;
+}
+
+.nav_spacer {
+    width: 200px;
+}
+
+.lard{
+    position: relative;
+    left: 1248px;
+    top: -200px;
 
 }
 
-.donut6{
-position: absolute;
-left: -181px;
-top: -363px;
 
+.text{
+    position: relative;
+    left: 8px;
+    top: -1000px;
+    font-family: Roboto;
+    font-size: 36px;
+    color: #ED5AA0;
 }
+
+/*
+
+
 .donut7{
 position: absolute;
 left: 1091px;
 top: -522px;
+width: 100%
 }
 
-.lard{
-position: absolute;
-left: 0px;
-top: 258px;
 
-}
-
-.text{
-    position: absolute;
-width: 595px;
-height: 584px;
-left: 803px;
-top: 252px;
-
-font-family: Roboto;
-font-style: normal;
-font-weight: normal;
-line-height: normal;
-font-size: 36px;
-
-color: #ED5AA0;
-}
 
 .homer1{
 position: absolute;
 left: 84px;
 top: 70px;
+width: 100%
 }
 .donut10{
     position: absolute;
 left: 1091px;
 top: -203px;
+width: 100%
 }
 
 .donut11{
 position: absolute;
 left: 250px;
 top: 34px;
+width: 100%
 }
 
 .donut12{
@@ -199,6 +112,7 @@ top: 34px;
 
 left: 390px;
 top: 224px;
+width: 100%
 }
 
 .donut13{
@@ -206,6 +120,7 @@ top: 224px;
 
 left: 549px;
 top: 135px;
+width: 100%
 }
 
 .donut14{
@@ -213,12 +128,14 @@ position: absolute;
 
 left: 405px;
 top: -100px;
+width: 100%
 }
 
 .donut15{
 position: absolute;
 left: 853px;
 top: 101px;
+width: 100%
 }
 
 .donut16{
@@ -227,6 +144,7 @@ position: absolute;
 
 left: 831px;
 top: 101px;
+width: 100%
 }
 
 .donuttext{
@@ -247,6 +165,7 @@ color: #000000;
 position: absolute;
 left: 100px;
 top: 249px;
+width: 100%
 }
 
 .sleeptext{
@@ -286,12 +205,14 @@ color: #ED5AA0;
 position: absolute;
 left: 645px;
 top: 96px;
+width: 100%
 }
 
 .do2{
 position: absolute;
 left: -282px;
 top: 176px;
+width: 100%
 }
 
 .ttext{
@@ -310,3 +231,4 @@ text-align: center;
 
 color: #000000;
 }
+*/
