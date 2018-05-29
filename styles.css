@@ -96,35 +96,6 @@ font-size: 40px;
 color:deeppink;
 }
 
-/*.sleep{
-position: absolute;
-left: 100px;
-top: 249px;
-width: 100%
-}*/
 
-.do1{
-float: right;
-width: 30%;   
-}
-.do2{
-float: right;
-width: 30%;   
-}
 
-.ttext{
-float: right;
-width: 40%;
-font-family: Roboto;
-font-size: 60px;  
-color: #ED5AA0;
-}
-
-.contact{
-float: right;
-width: 100%;
-font-family: Roboto;
-font-size: 140px;
-color: #ED5AA0;
-}
 
