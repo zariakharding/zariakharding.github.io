@@ -6,11 +6,12 @@
 body {
     font-family: Roboto;
 }
-.background{  
-    background-repeat:no-repeat;
-    background-position:center;
-    background-size:contain;
+
+body {
+    background-image: url("background2.png");
 }
+
+
 .logoarea {
     text-align: center;
 }
@@ -39,11 +40,6 @@ body {
 
 .links {
     text-align: center;
-    background-image: url(lard_lad_donuts_by_pointingmonkey-d7x819o.png);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: contain;
-    height: 600px;
     font-size: 48px;
     color: deeppink;
 }
@@ -58,177 +54,78 @@ body {
     width: 200px;
 }
 
-.lard{
-    position: relative;
-    left: 1248px;
-    top: -200px;
-
+.lard {
+    float: right;
+    width: 35%;
 }
 
+.mid-column {
+    width: 30%;
+    float: left;
+    text-align: center;
+}
 
 .text{
-    position: relative;
-    left: 8px;
-    top: -1000px;
+    float: left;
+    width: 35%;
+    font-family: Roboto;
+    font-size: 36px;
+    color: #ED5AA0;
+}
+.leftcollum{
+   float: left;
+    width: 35%;
     font-family: Roboto;
     font-size: 36px;
     color: #ED5AA0;
 }
 
-/*
-
-
-.donut7{
-position: absolute;
-left: 1091px;
-top: -522px;
-width: 100%
-}
-
-
-
-.homer1{
-position: absolute;
-left: 84px;
-top: 70px;
-width: 100%
-}
-.donut10{
-    position: absolute;
-left: 1091px;
-top: -203px;
-width: 100%
-}
-
-.donut11{
-position: absolute;
-left: 250px;
-top: 34px;
-width: 100%
-}
-
-.donut12{
-    position: absolute;
-
-left: 390px;
-top: 224px;
-width: 100%
-}
-
-.donut13{
-    position: absolute;
-
-left: 549px;
-top: 135px;
-width: 100%
-}
-
-.donut14{
-position: absolute;
-
-left: 405px;
-top: -100px;
-width: 100%
-}
-
-.donut15{
-position: absolute;
-left: 853px;
-top: 101px;
-width: 100%
-}
-
-.donut16{
-    
-position: absolute;
-
-left: 831px;
-top: 101px;
-width: 100%
+.rightcolloum{
+   float: left;
+    width: 35%;
+    font-family: Roboto;
+    font-size: 36px;
+    color: #ED5AA0;   
 }
 
 .donuttext{
-position: absolute;
-left: 24px;
-top: 305px;
-
+float: right;
+width: 30%;
 font-family: Roboto;
-font-style: normal;
-font-weight: normal;
-line-height: normal;
-font-size: 24px;
+font-size: 40px;
 
-color: #000000;
+color:deeppink;
 }
 
-.sleep{
+/*.sleep{
 position: absolute;
 left: 100px;
 top: 249px;
 width: 100%
-}
-
-.sleeptext{
-position: absolute;
-width: 928px;
-height: 235px;
-left: 498px;
-top: 577px;
-
-font-family: Roboto;
-font-style: normal;
-font-weight: normal;
-line-height: normal;
-font-size: 40px;
-
-color: #000000;
-}
-
-.contact{
-    
-position: absolute;
-width: 1656px;
-height: 173px;
-left: 44px;
-top: 557px;
-
-font-family: Roboto;
-font-style: normal;
-font-weight: normal;
-line-height: normal;
-font-size: 120px;
-
-color: #ED5AA0;
-}
+}*/
 
 .do1{
-position: absolute;
-left: 645px;
-top: 96px;
-width: 100%
+float: right;
+width: 30%;   
 }
-
 .do2{
-position: absolute;
-left: -282px;
-top: 176px;
-width: 100%
+float: right;
+width: 30%;   
 }
 
 .ttext{
-position: absolute;
-width: 1277px;
-height: 376px;
-left: 84px;
-top: 250px;
-
+float: right;
+width: 40%;
 font-family: Roboto;
-font-style: normal;
-font-weight: 200;
-line-height: normal;
-font-size: 52px;
-text-align: center;
-
-color: #000000;
+font-size: 60px;  
+color: #ED5AA0;
 }
-*/
+
+.contact{
+float: right;
+width: 100%;
+font-family: Roboto;
+font-size: 140px;
+color: #ED5AA0;
+}
+
